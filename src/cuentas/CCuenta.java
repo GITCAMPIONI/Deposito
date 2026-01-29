@@ -47,7 +47,7 @@ public class CCuenta {
 
     /**
      * Modifica el nombre del titular de la cuenta
-     * @param nombre the nombre to set
+     * @param nombre 
      */
     public void setNombre(String nombre) {
         this.nombre = nombre;
@@ -55,7 +55,7 @@ public class CCuenta {
 
     /**
      * Devuelve el número de la cuenta
-     * @return the cuenta
+     * @return cuenta
      */
     public String getCuenta() {
         return cuenta;
@@ -63,7 +63,7 @@ public class CCuenta {
 
     /**
      * Modifica el numero de la cuenta
-     * @param cuenta the cuenta to set
+     * @param cuenta
      */
     public void setCuenta(String cuenta) {
         this.cuenta = cuenta;
@@ -71,7 +71,7 @@ public class CCuenta {
 
     /**
      * Devuelve el saldo actual de la cuenta.
-     * @return the saldo
+     * @return saldo
      */
     public double getSaldo() {
         return saldo;
@@ -79,7 +79,7 @@ public class CCuenta {
 
     /**
      * Modifica el saldo actual de la cuenta
-     * @param saldo the saldo to set
+     * @param saldo
      */
     public void setSaldo(double saldo) {
         this.saldo = saldo;
@@ -87,7 +87,7 @@ public class CCuenta {
 
     /**
      * Devuelve el tipo de interés de la cuenta
-     * @return the tipoInterés
+     * @return tipoInterés
      */
     public double getTipoInterés() {
         return tipoInterés;
@@ -95,7 +95,7 @@ public class CCuenta {
 
     /**
      * Modifica el tipo de interés de la cuenta
-     * @param tipoInterés the tipoInterés to set
+     * @param tipoInterés
      */
     public void setTipoInterés(double tipoInterés) {
         this.tipoInterés = tipoInterés;}    
@@ -103,7 +103,7 @@ public class CCuenta {
     
     /**
      * Devuelve el saldo actual de la cuenta
-     * @return the getSaldo 
+     * @return getSaldo 
      */
     public double estado()
     {
